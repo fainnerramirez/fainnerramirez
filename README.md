@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fainnerramirez...
-I'm Fronteend Developer --> Welcome!
+I'm Frontend Developer --> Welcome!
 
 📢 Linktree: https://linktr.ee/fainnercode
 
