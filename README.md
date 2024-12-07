@@ -29,5 +29,4 @@ const me = new SoftwareDeveloper();
 me.Welcome();
 ```
 
-## Estadísticas de GitHub
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fainnerramirez&show_icons=true&theme=radical)
+[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api/pin/?username=fainnerramirez&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
