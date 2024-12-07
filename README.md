@@ -1,25 +1,33 @@
-<!-- Encabezado -->
-# ¡Hola, soy Fainner Ramirez! 👨‍💻
 
-## Sobre mí
-Soy un desarrollador web full stack con experiencia en tecnologías frontend y backend. Apasionado por crear experiencias web cautivadoras y soluciones backend robustas.
+```typescript  
+class SoftwareDeveloper {
 
-## Tecnologías y Herramientas
-- 💻 Frontend: HTML, CSS, JavaScript, Vue.js, React.js
-- 🔧 Backend: C#, ASP.NET
-- 🚀 Otras herramientas: Git, Visual Studio Code
+  private name: string;
+  private alias: string;
+  private passion: string;
+  private age: number;
+  private height: string;
+  private role: string;
+  private language: Array<string>;
+
+  constructor() {
+    this.name = "Fainner Ramirez";
+    this.alias = "Fai";
+    this.passion = "Desarrollar Side Projects"
+    this.age = 27;
+    this.height = "1.88mtrs";
+    this.role = "FullStack Web Developer";
+    this.language = ["es_ES", "COL"];
+  }
+
+  public Welcome(): void {
+    console.log("¡Gracias por ver mi perfíl!...espero que encuentres algo interesante de mi trabajo");
+  }
+}
+
+const me = new SoftwareDeveloper();
+me.Welcome();
+```
 
 ## Estadísticas de GitHub
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fainnerramirez&show_icons=true&theme=radical)
-
-## Contacto
-¡Conéctate conmigo en estas redes sociales!
-- [LinkedIn](https://www.linkedin.com/in/fainnerramirez/)
-- [Twitter](https://twitter.com/FainnerR)
-- [Linktree](https://linktr.ee/fainnercode)
-
-<!-- Footer -->
-<p align="center">
-  ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en un proyecto, ¡no dudes en contactarme! 🚀
-</p>
-
