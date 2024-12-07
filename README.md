@@ -1,5 +1,5 @@
 
-# Hey! Bienvenido <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="40" height="40" />
+# Hey! Bienvenido <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="50" height="50" />
 
 
 ```typescript  
