@@ -6,7 +6,7 @@ class SoftwareDeveloper {
   private alias: string;
   private passion: string;
   private age: number;
-  private height: string;
+  private height: number;
   private role: string;
   private language: Array<string>;
 
@@ -15,7 +15,7 @@ class SoftwareDeveloper {
     this.alias = "Fai";
     this.passion = "Desarrollar Side Projects"
     this.age = 27;
-    this.height = "1.88mtrs";
+    this.height = 1.88;
     this.role = "FullStack Web Developer";
     this.language = ["es_ES", "COL"];
   }
