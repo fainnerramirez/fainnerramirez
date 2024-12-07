@@ -28,5 +28,3 @@ class SoftwareDeveloper {
 const me = new SoftwareDeveloper();
 me.Welcome();
 ```
-
-[![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api/pin/?username=fainnerramirez&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
