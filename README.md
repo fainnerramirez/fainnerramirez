@@ -1,5 +1,5 @@
 
-# Hey! Bienvenido <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="50" height="50" />
+# Hey! que tal <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="50" height="50" />
 
 
 ```typescript  
@@ -8,8 +8,6 @@ class SoftwareDeveloper {
   private name: string;
   private alias: string;
   private passion: string;
-  private age: number;
-  private height: number;
   private role: string;
   private language: Array<string>;
 
@@ -17,8 +15,6 @@ class SoftwareDeveloper {
     this.name = "Fainner Ramirez";
     this.alias = "Fai";
     this.passion = "Desarrollar Side Projects"
-    this.age = 27;
-    this.height = 1.88;
     this.role = "FullStack Web Developer";
     this.language = ["es_ES", "COL"];
   }
